@@ -7,8 +7,6 @@
 
 A decentralized application (dApp) to combat product counterfeiting. This system allows manufacturers to register their products on the Ethereum blockchain, generating a unique QR code for each item. Consumers can then scan this QR code to instantly verify the authenticity of the product.
 
-![Demo Screenshot Placeholder](https://placehold.co/800x450/1e293b/ffffff?text=App+Screenshot+Here)
-*A placeholder for your application's screenshot or a GIF demonstrating the workflow.*
 
 ---
 
